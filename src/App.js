@@ -8,7 +8,8 @@ function App() {
         <p>
           S A C R E D   G E O M E T R Y
         </p>
-          s.g.
+          
+        <p>s.g.</p>
       </header>
     </div>
   );
