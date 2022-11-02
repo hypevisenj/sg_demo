@@ -9,7 +9,6 @@ function App() {
           S A C R E D   G E O M E T R Y
         </p>
           s.g.
-        </a>
       </header>
     </div>
   );
